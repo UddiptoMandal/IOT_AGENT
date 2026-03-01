@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+logs/
+temp_outputs/
+lc-academy-env/
+.env
